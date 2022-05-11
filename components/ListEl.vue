@@ -6,6 +6,7 @@
 
 <script>
 export default {
+  // bad component naming
   name: 'ListEl',
 
   props: {

@@ -1,4 +1,5 @@
 export const state = () => ({
+  // warn: default value is empty array []
   list: null,
 })
 
